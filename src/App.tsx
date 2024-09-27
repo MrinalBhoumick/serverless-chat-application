@@ -6,7 +6,7 @@ import Sidebar from "./Sidebar";
 import { WebSocketConnector } from "./WebSocketConnector";
 import Welcome from "./Welcome";
 
-const WS_URL = "wss://0q4bb2oi5i.execute-api.us-east-1.amazonaws.com/dev";
+const WS_URL = "wss://posqh7yz8e.execute-api.ap-south-1.amazonaws.com/dev";
 const connector = new WebSocketConnector();
 
 function App() {
